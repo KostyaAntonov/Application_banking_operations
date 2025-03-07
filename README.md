@@ -1,4 +1,4 @@
-# COURSE WORK
+# An application for analyzing banking transactions
 
 Pycharm Project
 
